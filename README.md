@@ -1,4 +1,4 @@
-# JusPublic - Sistema Integrado PGE
+# Integração SEI para JusPublic
 
 Um mockup moderno e funcional do sistema JusPublic, espelho do SEI (Sistema Eletrônico de Informações), desenvolvido especificamente para Procuradorias de Estado.
 
